@@ -1,0 +1,1 @@
+﻿Relatório salvo em exploracao/relatorio.json

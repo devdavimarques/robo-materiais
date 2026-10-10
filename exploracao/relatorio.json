@@ -1,0 +1,590 @@
+{
+  "drive": {
+    "raiz": [
+      {
+        "id": "17HHWoonYDeqtY9WcUgNScG4aQxsjHNQW",
+        "texto": "1. MATERIAIS PARA IMPRESSÃO",
+        "aria": "1. MATERIAIS PARA IMPRESSÃO"
+      },
+      {
+        "id": "1d59sn1OjafQ-rOEAeDZz-491PJbr4VQj",
+        "texto": "1. MANHÃ",
+        "aria": null
+      },
+      {
+        "id": "1Gfyu2v6RWr9Dz9WotnP3DshE-k6oLOAU",
+        "texto": "2. TARDE",
+        "aria": null
+      },
+      {
+        "id": "1_ei3T8C7uy5DyvA13CpAMfXjSrCQeyE5",
+        "texto": "3. NOITE",
+        "aria": null
+      }
+    ],
+    "turnos": {
+      "1. MATERIAIS PARA IMPRESSÃO": {
+        "6 - TURMAS PRESENCIAIS": {
+          "id": "1PBs24RW7x8v7xZeXEEzjZVq3ZWmHsikM",
+          "arquivos": [
+            {
+              "id": "0AOuWlwSo4J-uUk9PVA",
+              "texto": "Meu Drive",
+              "aria": "Meu Drive"
+            },
+            {
+              "id": "1Qf-QwITkA1_VM7u8Da8sJAmjZhaYqpza",
+              "texto": "MATERIAIS 2024 - 2026",
+              "aria": "MATERIAIS 2024 - 2026"
+            },
+            {
+              "id": "17HHWoonYDeqtY9WcUgNScG4aQxsjHNQW",
+              "texto": "1. MATERIAIS PARA IMPRESSÃO",
+              "aria": null
+            },
+            {
+              "id": "137iYIil2_ANB6plzYC7pCZvLnjQ2DMEH",
+              "texto": "CONCLUÍDAS",
+              "aria": null
+            },
+            {
+              "id": "1cuooCgR5ssrM0F9ShiDmiVDPWSMnl9XL",
+              "texto": "OPERAÇÃO 12",
+              "aria": null
+            }
+          ]
+        },
+        "01- Materiais Diários": {
+          "id": "1u019eeaPre3pzm1AnNjs_RpnW9GvUqyv",
+          "arquivos": [
+            {
+              "id": "17HHWoonYDeqtY9WcUgNScG4aQxsjHNQW",
+              "texto": "1. MATERIAIS PARA IMPRESSÃO",
+              "aria": "1. MATERIAIS PARA IMPRESSÃO"
+            },
+            {
+              "id": "1d59sn1OjafQ-rOEAeDZz-491PJbr4VQj",
+              "texto": "1. MANHÃ",
+              "aria": null
+            },
+            {
+              "id": "1Gfyu2v6RWr9Dz9WotnP3DshE-k6oLOAU",
+              "texto": "2. TARDE",
+              "aria": null
+            },
+            {
+              "id": "1_ei3T8C7uy5DyvA13CpAMfXjSrCQeyE5",
+              "texto": "3. NOITE",
+              "aria": null
+            }
+          ]
+        },
+        "02- Materiais Backup": {
+          "id": "18GPYHBj2AUajMOd6eimDrUSmlErDyx_g",
+          "arquivos": [
+            {
+              "id": "17HHWoonYDeqtY9WcUgNScG4aQxsjHNQW",
+              "texto": "1. MATERIAIS PARA IMPRESSÃO",
+              "aria": "1. MATERIAIS PARA IMPRESSÃO"
+            },
+            {
+              "id": "13fMwKOWLzaf1K-E_MZgobNM9nGyrMAPE",
+              "texto": "Backup Atual",
+              "aria": null
+            },
+            {
+              "id": "1dv7VtJUv2XcFKJA3eOOWLbRiuf5_ebrV",
+              "texto": "Backup Modelo Antigo",
+              "aria": null
+            },
+            {
+              "id": "1DnwU8KtidFKKUIMYDSFE9qDs71etefPX",
+              "texto": "TURMAS FINALIZADAS",
+              "aria": null
+            }
+          ]
+        },
+        "03 - Slides das turmas": {
+          "id": "1uc4JIr4y3yoX446irpcgPy7aA33IPfFG",
+          "arquivos": [
+            {
+              "id": "17HHWoonYDeqtY9WcUgNScG4aQxsjHNQW",
+              "texto": "1. MATERIAIS PARA IMPRESSÃO",
+              "aria": "1. MATERIAIS PARA IMPRESSÃO"
+            },
+            {
+              "id": "1mAIQQDM_ViVNHRFBxpLbQnv9-a8zNWxj",
+              "texto": "1. Manhã",
+              "aria": null
+            },
+            {
+              "id": "1lN2gKFXitjTFj0rGsNJfTGn0nSVjRwv2",
+              "texto": "2. Tarde",
+              "aria": null
+            },
+            {
+              "id": "1jnd-PEp_DDiTJGDJJ2o5J7b_2r27W4Fw",
+              "texto": "3. Noite",
+              "aria": null
+            },
+            {
+              "id": "1YvfrW-ms6qO_iEp23efYfPMt43PhPFvN",
+              "texto": "Sábado 04/07 (temporário)",
+              "aria": null
+            }
+          ]
+        },
+        "04 -EVENTOS": {
+          "id": "1KH-cc9Pu98_zldk8JNHzejA8wVEKW7xE",
+          "arquivos": [
+            {
+              "id": "17HHWoonYDeqtY9WcUgNScG4aQxsjHNQW",
+              "texto": "1. MATERIAIS PARA IMPRESSÃO",
+              "aria": "1. MATERIAIS PARA IMPRESSÃO"
+            },
+            {
+              "id": "1vabmLRH-4C-NA9rQwYQ6ERbxVqqS_KFH",
+              "texto": "AULÃO DIA D",
+              "aria": null
+            },
+            {
+              "id": "1rD-z-puD9rJR8mZE3wLffy0CzBZ6ybNH",
+              "texto": "AULAS DA PC AOS SÁBADOS",
+              "aria": null
+            },
+            {
+              "id": "11OC_bmUDH2q9hbSGEyz-U2yaMck6Mi3O",
+              "texto": "CORUJÃO 29.05.26",
+              "aria": null
+            }
+          ]
+        },
+        "05 - Curso Online": {
+          "id": "1nnZ3D5ZxJUHMwik-YjAXJEz5i38JI5-I",
+          "arquivos": [
+            {
+              "id": "17HHWoonYDeqtY9WcUgNScG4aQxsjHNQW",
+              "texto": "1. MATERIAIS PARA IMPRESSÃO",
+              "aria": "1. MATERIAIS PARA IMPRESSÃO"
+            },
+            {
+              "id": "14TcvhTlosXd3ZNEHnDQJQC69SFVVxs2C",
+              "texto": "BIOLOGIA",
+              "aria": null
+            },
+            {
+              "id": "1j4-8k-lTNZFkF2vL-WHpmIea6pxw6MDW",
+              "texto": "DIR. HUMANOS",
+              "aria": null
+            },
+            {
+              "id": "1PjhLU8ISRySr3lujo48AvxwbuaDMk9WB",
+              "texto": "DIREITO ADMINISTRATIVO",
+              "aria": null
+            },
+            {
+              "id": "1X63VypDgptlucIOq03qSrM1qJTWycAIq",
+              "texto": "DIREITO CONSTITUCIONAL",
+              "aria": null
+            },
+            {
+              "id": "1-o6lxX34Sw_8jqT0pRK3j6lYLHvjTIg3",
+              "texto": "DIREITO PENAL",
+              "aria": null
+            },
+            {
+              "id": "1USzEpfegAk8M5FVWStaJSQLeUQS3qnSj",
+              "texto": "Estatística",
+              "aria": null
+            },
+            {
+              "id": "1ihsEvfr4p0TbSBtM-G0-CW4dh6JLfEVT",
+              "texto": "ESTATUTO",
+              "aria": null
+            },
+            {
+              "id": "1FTF4dWWgTxqxEC4naJ4g1vhxpe0aUrI6",
+              "texto": "FÍSICA",
+              "aria": null
+            },
+            {
+              "id": "1VI_XcI3FJ1wBkEMYW61he7HYyVWW2r4u",
+              "texto": "GEOGRAFIA",
+              "aria": null
+            },
+            {
+              "id": "1RnjVpHpGcccLNLpWuWWmhBoOxf6f2eYA",
+              "texto": "HISTÓRIA",
+              "aria": null
+            },
+            {
+              "id": "1xpj9BZRL_zkbiJHJkgOFSM77CIs0P6kU",
+              "texto": "IGUALDADE",
+              "aria": null
+            },
+            {
+              "id": "1OXubZRNj37jp47IEv1DqO37eH32R0Fy0",
+              "texto": "INFORMÁTICA",
+              "aria": null
+            },
+            {
+              "id": "1FAiniDg8uupc8VfmhRi3Ta6wq6zs1-3m",
+              "texto": "INGLÊS",
+              "aria": null
+            },
+            {
+              "id": "1S0_6i_lh-fky2IARhXTHrgLb9FzT6KgD",
+              "texto": "LEGISLAÇÃO GERAL",
+              "aria": null
+            },
+            {
+              "id": "1h_Ci3Qhj9bnSfussOFs2JIPingWLQ1pr",
+              "texto": "MATEMÁTICA",
+              "aria": null
+            },
+            {
+              "id": "1TXii8hi2ewhdGN_FoKQ19PflCsOEbIr1",
+              "texto": "PENAL MILITAR",
+              "aria": null
+            },
+            {
+              "id": "1I3UKPM7RS3jXp0LXiyyJuYxwtlbfmD5q",
+              "texto": "PORTUGUÊS",
+              "aria": null
+            },
+            {
+              "id": "19Edx_CMet8ek_npBaQbx7hq-lDYIgbZf",
+              "texto": "PROCESSO PENAL MILITAR",
+              "aria": null
+            },
+            {
+              "id": "1EyUqaLZGaaNSX_n2SUB5K8eHhnnux-Fq",
+              "texto": "QUÍMICA",
+              "aria": null
+            },
+            {
+              "id": "1Md84ivn3ONCsDHCEyb9nctZBfRjukjZb",
+              "texto": "REDAÇÃO",
+              "aria": null
+            }
+          ]
+        },
+        "06 - Sistema Materiais Quad": {
+          "id": "1BEkwpL0pwKKrkUVvlKd66Q8yCCKG_P0l",
+          "arquivos": [
+            {
+              "id": "17HHWoonYDeqtY9WcUgNScG4aQxsjHNQW",
+              "texto": "1. MATERIAIS PARA IMPRESSÃO",
+              "aria": "1. MATERIAIS PARA IMPRESSÃO"
+            },
+            {
+              "id": "1e5sAmz-0Uziz_jgJzLuN5z4IUPzBXSRQ",
+              "texto": "01 - Recebidos",
+              "aria": null
+            },
+            {
+              "id": "1AJPQSxMfcbTykfxw7YWEC14uauPg-agM",
+              "texto": "02 - Em análise",
+              "aria": null
+            },
+            {
+              "id": "1mdQ8NmEevZCoFXG79wnTQ1sK7yMhQrPt",
+              "texto": "03 - Aprovados",
+              "aria": null
+            },
+            {
+              "id": "1XzOCsRP_ZeKdXtqVaIs8756r9TySxNqq",
+              "texto": "04 - Impressão",
+              "aria": null
+            },
+            {
+              "id": "1OtjhsTBdvqBzbbpt4aAlNzm8nmNyF_yQ",
+              "texto": "05 - Arquivados",
+              "aria": null
+            },
+            {
+              "id": "1fC-w0jbWYBqki8VqkMSRN2SuL2OTk3TC",
+              "texto": "Sistema 02",
+              "aria": null
+            }
+          ]
+        },
+        "01- Materiais Diários - Atalho.lnk": {
+          "id": "135WMeyoHF2LFKfnUXZ16kDwoYqwUneOh",
+          "arquivos": []
+        },
+        "003 Discursiva IPC-BA 2026 - Recursos EXTRAs.pdf": {
+          "id": "1reOg2QWqiXWdnl9jVYzdaL9ti6u_Y5Q1",
+          "arquivos": []
+        }
+      },
+      "1. MANHÃ": {
+        "01- Materiais Diários": {
+          "id": "1u019eeaPre3pzm1AnNjs_RpnW9GvUqyv",
+          "arquivos": [
+            {
+              "id": "17HHWoonYDeqtY9WcUgNScG4aQxsjHNQW",
+              "texto": "1. MATERIAIS PARA IMPRESSÃO",
+              "aria": "1. MATERIAIS PARA IMPRESSÃO"
+            },
+            {
+              "id": "1d59sn1OjafQ-rOEAeDZz-491PJbr4VQj",
+              "texto": "1. MANHÃ",
+              "aria": null
+            },
+            {
+              "id": "1Gfyu2v6RWr9Dz9WotnP3DshE-k6oLOAU",
+              "texto": "2. TARDE",
+              "aria": null
+            },
+            {
+              "id": "1_ei3T8C7uy5DyvA13CpAMfXjSrCQeyE5",
+              "texto": "3. NOITE",
+              "aria": null
+            }
+          ]
+        },
+        "Core Revisão Final (MANHÃ)": {
+          "id": "1qWswbaOO7iHfsHyPccr7mBoghRM8mQsX",
+          "arquivos": [
+            {
+              "id": "1d59sn1OjafQ-rOEAeDZz-491PJbr4VQj",
+              "texto": "1. MANHÃ",
+              "aria": "1. MANHÃ"
+            }
+          ]
+        },
+        "Patamo SD (MANHÃ)": {
+          "id": "1FJ4l1GOaGt9kQMY8c3j5U5iG8ySiVMAg",
+          "arquivos": [
+            {
+              "id": "1d59sn1OjafQ-rOEAeDZz-491PJbr4VQj",
+              "texto": "1. MANHÃ",
+              "aria": "1. MANHÃ"
+            }
+          ]
+        }
+      },
+      "2. TARDE": {
+        "01- Materiais Diários": {
+          "id": "1u019eeaPre3pzm1AnNjs_RpnW9GvUqyv",
+          "arquivos": [
+            {
+              "id": "17HHWoonYDeqtY9WcUgNScG4aQxsjHNQW",
+              "texto": "1. MATERIAIS PARA IMPRESSÃO",
+              "aria": "1. MATERIAIS PARA IMPRESSÃO"
+            },
+            {
+              "id": "1d59sn1OjafQ-rOEAeDZz-491PJbr4VQj",
+              "texto": "1. MANHÃ",
+              "aria": null
+            },
+            {
+              "id": "1Gfyu2v6RWr9Dz9WotnP3DshE-k6oLOAU",
+              "texto": "2. TARDE",
+              "aria": null
+            },
+            {
+              "id": "1_ei3T8C7uy5DyvA13CpAMfXjSrCQeyE5",
+              "texto": "3. NOITE",
+              "aria": null
+            }
+          ]
+        },
+        "PATAMO CFO (TARDE)": {
+          "id": "1esLfD3Fzdly24gSnOHPLXqLvHptIlBlQ",
+          "arquivos": [
+            {
+              "id": "1Gfyu2v6RWr9Dz9WotnP3DshE-k6oLOAU",
+              "texto": "2. TARDE",
+              "aria": "2. TARDE"
+            },
+            {
+              "id": "1S2lVRBXRKB0QyeNL1Nvafg84YceClqfK",
+              "texto": "Turma Patamo Tarde dia 09.10 (D. Constitucional) - [Diário].pdf",
+              "aria": null
+            },
+            {
+              "id": "1UTHA5TNJqeSCAJ2fbCJ1dh5MZpP2wluB",
+              "texto": "Turma Patamo Tarde dia 09.10 (D. Constitucional) - Gabarito [Diário].pdf",
+              "aria": null
+            },
+            {
+              "id": "17A4B-lHQh4n9OTBO5AAYefdW8KO6xQZl",
+              "texto": "Turma Patamo Tarde dia 09.10 (D. Penal Militar) - [Diário].pdf",
+              "aria": null
+            },
+            {
+              "id": "1r8H5cuj_TjXc0PywAXcBkfj4b0A5Y0eO",
+              "texto": "Turma Patamo Tarde dia 09.10 (D. Penal Militar) - Gabarito [Diário].pdf",
+              "aria": null
+            }
+          ]
+        }
+      },
+      "3. NOITE": {
+        "01- Materiais Diários": {
+          "id": "1u019eeaPre3pzm1AnNjs_RpnW9GvUqyv",
+          "arquivos": [
+            {
+              "id": "17HHWoonYDeqtY9WcUgNScG4aQxsjHNQW",
+              "texto": "1. MATERIAIS PARA IMPRESSÃO",
+              "aria": "1. MATERIAIS PARA IMPRESSÃO"
+            },
+            {
+              "id": "1d59sn1OjafQ-rOEAeDZz-491PJbr4VQj",
+              "texto": "1. MANHÃ",
+              "aria": null
+            },
+            {
+              "id": "1Gfyu2v6RWr9Dz9WotnP3DshE-k6oLOAU",
+              "texto": "2. TARDE",
+              "aria": null
+            },
+            {
+              "id": "1_ei3T8C7uy5DyvA13CpAMfXjSrCQeyE5",
+              "texto": "3. NOITE",
+              "aria": null
+            }
+          ]
+        },
+        "Bope 3 (NOITE)": {
+          "id": "1NCNVDE8-HRFw8xkuSY0FhUqQfkLH84S9",
+          "arquivos": [
+            {
+              "id": "1_ei3T8C7uy5DyvA13CpAMfXjSrCQeyE5",
+              "texto": "3. NOITE",
+              "aria": "3. NOITE"
+            },
+            {
+              "id": "1lHQ0pTsUGPuGN2qYVsRddHzvG1WpAJ2O",
+              "texto": "Turma Bope 3 Noite dia 09.10 (D. Constitucional) -  [Diário].pdf",
+              "aria": null
+            },
+            {
+              "id": "1Zz5b0yRwx8jMPf4bgYmPSTTJ2P4IlUwk",
+              "texto": "Turma Bope 3 Noite dia 09.10 (Português) -  [Diário].pdf",
+              "aria": null
+            }
+          ]
+        },
+        "Core Revisão Final (NOITE)": {
+          "id": "1G7VbXEaiDBkfylNx9lj6RSOGIbXTlPxU",
+          "arquivos": [
+            {
+              "id": "1_ei3T8C7uy5DyvA13CpAMfXjSrCQeyE5",
+              "texto": "3. NOITE",
+              "aria": "3. NOITE"
+            },
+            {
+              "id": "1-RExiliHc-TLAaR28JFH37oeaaHDCz44",
+              "texto": "(Aula Anterior) Turma Core Revisão Final Noite dia 09.10 (Estatística) [Diário].pdf",
+              "aria": null
+            },
+            {
+              "id": "1B0VuKql8b802bFcNr6ukUj9KBCqGTTNX",
+              "texto": "(Aula Anterior) Turma Core Revisão Final Noite dia 09.10 (Legislação Geral) [Diário].pdf",
+              "aria": null
+            }
+          ]
+        },
+        "Patamo (NOITE)": {
+          "id": "1FWG53s5KoxCS3G60Fe0RbbV14FuG-7ZS",
+          "arquivos": [
+            {
+              "id": "1_ei3T8C7uy5DyvA13CpAMfXjSrCQeyE5",
+              "texto": "3. NOITE",
+              "aria": "3. NOITE"
+            },
+            {
+              "id": "1ilA1xUA4DkEmlzuQyf8IdAYybAp0jugw",
+              "texto": "Turma Patamo Noite dia 09.10 (Direito Constitucional) [Diário]",
+              "aria": null
+            },
+            {
+              "id": "1VxCULYWVIgD84__EHU3LF0VTK-jtc_og",
+              "texto": "Turma Patamo Noite dia 09.10 (Matemática) [Diário]",
+              "aria": null
+            }
+          ]
+        },
+        "Patamo II (NOITE)": {
+          "id": "1F4wVRzPs7Dj95uC3W8hqaxj0nEzYPOec",
+          "arquivos": [
+            {
+              "id": "1_ei3T8C7uy5DyvA13CpAMfXjSrCQeyE5",
+              "texto": "3. NOITE",
+              "aria": "3. NOITE"
+            },
+            {
+              "id": "1ScLkM39NJxu-ZB2Px-pSf0A_g13nVoP4",
+              "texto": "(Aula Anterior) Turma Patamo II Noite dia 09.10 (Matemática) - Gabarito [Diário].pdf",
+              "aria": null
+            },
+            {
+              "id": "1_reWnp8K6NIeNksxgrytLXdsg42ZDQE4",
+              "texto": "(Aula Anterior) Turma Patamo II Noite dia 09.10 (Matemática) [Diário].pdf",
+              "aria": null
+            },
+            {
+              "id": "1o9YcMe5CYvJiQkTS9_U2CAU7ldTPFV5w",
+              "texto": "Turma Patamo II Noite dia 09.10 (Português) [Diário]",
+              "aria": null
+            }
+          ]
+        }
+      }
+    }
+  },
+  "produto": {
+    "id": "220360",
+    "titulo": "MATERIAIS DIÁRIOS – SD PATAMO [M] (06/07)",
+    "arquivos": [
+      {
+        "nome": "Turma Patamo SD Manhã dia 05.10 (Estatuto) - [Diário]",
+        "url": "https://quadconcursos.com.br/wp-content/uploads/woocommerce_uploads/2026/06/Turma-Patamo-SD-Manha-dia-05.10-Estatuto-Diario-6hwnyy.pdf"
+      },
+      {
+        "nome": "Turma Patamo SD Manhã dia 05.10 (Estatuto) - Gabarito] [Diário]",
+        "url": "https://quadconcursos.com.br/wp-content/uploads/woocommerce_uploads/2026/06/Turma-Patamo-SD-Manha-dia-05.10-Estatuto-Gabarito-Diario-qyicq7.pdf"
+      },
+      {
+        "nome": "Turma Patamo SD Manhã dia 05.10 (Geografia) - [Diário]",
+        "url": "https://quadconcursos.com.br/wp-content/uploads/woocommerce_uploads/2026/06/Turma-Patamo-SD-Manha-dia-05.10-Geografia-Diario-9xpqgi.pdf"
+      },
+      {
+        "nome": "Turma Patamo SD Manhã dia 05.10 (Geografia) - Gabarito [Diário]",
+        "url": "https://quadconcursos.com.br/wp-content/uploads/woocommerce_uploads/2026/06/Turma-Patamo-SD-Manha-dia-05.10-Geografia-Gabarito-Diario-hbhzou.pdf"
+      },
+      {
+        "nome": "Turma Patamo SD Manhã dia 06.10 (Igualdade) - [Diário]",
+        "url": "https://quadconcursos.com.br/wp-content/uploads/woocommerce_uploads/2026/06/Turma-Patamo-SD-Manha-dia-06.10-Igualdade-Diario-cvfp9y.pdf"
+      },
+      {
+        "nome": "Turma Patamo SD Manhã dia 06.10 (Igualdade) - Gabarito [Diário]",
+        "url": "https://quadconcursos.com.br/wp-content/uploads/woocommerce_uploads/2026/06/Turma-Patamo-SD-Manha-dia-06.10-Igualdade-Gabarito-Diario-j5qz3a.pdf"
+      },
+      {
+        "nome": "Turma Patamo SD Manhã dia 06.10 (Direito Constitucional) [Diário]",
+        "url": "https://quadconcursos.com.br/wp-content/uploads/woocommerce_uploads/2026/06/Turma-Patamo-SD-Manha-dia-06.10-Direito-Constitucional-Diario-xghbix.pdf"
+      },
+      {
+        "nome": "Turma Patamo SD Manhã dia 08.10 (Igualdade) [Diário]",
+        "url": "https://quadconcursos.com.br/wp-content/uploads/woocommerce_uploads/2026/06/Turma-Patamo-SD-Manha-dia-08.10-Igualdade-Diario-yeg9u2.pdf"
+      },
+      {
+        "nome": "Turma Patamo SD Manhã dia 08.10 (Atualidades) [Diário]",
+        "url": "https://quadconcursos.com.br/wp-content/uploads/woocommerce_uploads/2026/06/Turma-Patamo-SD-Manha-dia-08.10-Atualidades-Diario-6dwg09.pdf"
+      },
+      {
+        "nome": "Turma Patamo SD Manhã dia 09.10 (D. Constitucional) [Diário]",
+        "url": "https://quadconcursos.com.br/wp-content/uploads/woocommerce_uploads/2026/06/Turma-Patamo-SD-Manha-dia-09.10-D.-Constitucional-Diario-axwktg.pdf"
+      },
+      {
+        "nome": "Turma Patamo SD Manhã dia 09.10 (Penal Militar) [Diário]",
+        "url": "https://quadconcursos.com.br/wp-content/uploads/woocommerce_uploads/2026/06/Turma-Patamo-SD-Manha-dia-09.10-Penal-Militar-Diario-lxq8jx.pdf"
+      }
+    ],
+    "htmlTabela": "<div class=\"form-field downloadable_files\">\n\t\t\t<label>Arquivos baixáveis</label>\n\t\t\t<table class=\"widefat\">\n\t\t\t\t<thead>\n\t\t\t\t\t<tr>\n\t\t\t\t\t\t<th class=\"sort\">&nbsp;</th>\n\t\t\t\t\t\t<th>Nome <span class=\"woocommerce-help-tip\" tabindex=\"0\" aria-label=\"Este é o nome do download exibido para o cliente.\"></span></th>\n\t\t\t\t\t\t<th colspan=\"2\">URL do Arquivo <span class=\"woocommerce-help-tip\" tabindex=\"0\" aria-label=\"Este é o URL ou o caminho absoluto para o arquivo que os clientes terão acesso. URLs inseridos já devem ser codificadas.\"></span></th>\n\t\t\t\t\t\t<th>&nbsp;</th>\n\t\t\t\t\t</tr>\n\t\t\t\t</thead>\n\t\t\t\t<tbody class=\"ui-sortable\">\n\t\t\t\t\t<tr>\n\t<td class=\"sort\"></td>\n\t<td class=\"file_name\">\n\t\t<input type=\"text\" class=\"input_text\" placeholder=\"Nome do arquivo\" name=\"_wc_file_names[]\" value=\"Turma Patamo SD Manhã dia 05.10 (Estatuto) - [Diário]\">\n\t\t<input type=\"hidden\" name=\"_wc_file_hashes[]\" value=\"0f3b69f5-c6bb-48c2-8087-c8f72918f3cc\">\n\t</td>\n\t<td class=\"file_url\">\n\t\t<input type=\"text\" class=\"input_text\" placeholder=\"https://\" name=\"_wc_file_urls[]\" value=\"https://quadconcursos.com.br/wp-content/uploads/woocommerce_uploads/2026/06/Turma-Patamo-SD-Manha-dia-05.10-Estatuto-Diario-6hwnyy.pdf\">\n\t\t\t</td>\n\t<td class=\"file_url_choose\" width=\"1%\"><a href=\"#\" class=\"button upload_file_button\" data-choose=\"Escolher arquivo\" data-update=\"Inserir o URL do arquivo\">Escolher arquivo</a></td>\n\t<td width=\"1%\"><a href=\"#\" class=\"delete\">Excluir</a></td>\n</tr>\n<tr>\n\t<td class=\"sort\"></td>\n\t<td class=\"file_name\">\n\t\t<input type=\"text\" class=\"input_text\" placeholder=\"Nome do arquivo\" name=\"_wc_file_names[]\" value=\"Turma Patamo SD Manhã dia 05.10 (Estatuto) - Gabarito] [Diário]\">\n\t\t<input type=\"hidden\" name=\"_wc_file_hashes[]\" value=\"ec621f1f-3261-44d5-8fef-4b2299d1e3be\">\n\t</td>\n\t<td class=\"file_url\">\n\t\t<input type=\"text\" class=\"input_text\" placeholder=\"https://\" name=\"_wc_file_urls[]\" value=\"https://quadconcursos.com.br/wp-content/uploads/woocommerce_uploads/2026/06/Turma-Patamo-SD-Manha-dia-05.10-Estatuto-Gabarito-Diario-qyicq7.pdf\">\n\t\t\t</td>\n\t<td class=\"file_url_choose\" width=\"1%\"><a href=\"#\" class=\"button upload_file_button\" data-choose=\"Escolher arquivo\" data-update=\"Inserir o URL do arquivo\">Escolher arquivo</a></td>\n\t<td width=\"1%\"><a href=\"#\" class=\"delete\">Excluir</a></td>\n</tr>\n<tr>\n\t<td class=\"sort\"></td>\n\t<td class=\"file_name\">\n\t\t<input type=\"text\" class=\"input_text\" placeholder=\"Nome do arquivo\" name=\"_wc_file_names[]\" value=\"Turma Patamo SD Manhã dia 05.10 (Geografia) - [Diário]\">\n\t\t<input type=\"hidden\" name=\"_wc_file_hashes[]\" value=\"2d82eef3-6f3b-4b62-95e7-584d0691d577\">\n\t</td>\n\t<td class=\"file_url\">\n\t\t<input type=\"text\" class=\"input_text\" placeholder=\"https://\" name=\"_wc_file_urls[]\" value=\"https://quadconcursos.com.br/wp-content/uploads/woocommerce_uploads/2026/06/Turma-Patamo-SD-Manha-dia-05.10-Geografia-Diario-9xpqgi.pdf\">\n\t\t\t</td>\n\t<td class=\"file_url_choose\" width=\"1%\"><a href=\"#\" class=\"button upload_file_button\" data-choose=\"Escolher arquivo\" data-update=\"Inserir o URL do arquivo\">Escolher arquivo</a></td>\n\t<td width=\"1%\"><a href=\"#\" class=\"delete\">Excluir</a></td>\n</tr>\n<tr>\n\t<td class=\"sort\"></td>\n\t<td class=\"file_name\">\n\t\t<input type=\"text\" class=\"input_text\" placeholder=\"Nome do arquivo\" name=\"_wc_file_names[]\" value=\"Turma Patamo SD Manhã dia 05.10 (Geografia) - Gabarito [Diário]\">\n\t\t<input type=\"hidden\" name=\"_wc_file_hashes[]\" value=\"f50c7814-1333-4997-891d-0501df4026f2\">\n\t</td>\n\t<td class=\"file_url\">\n\t\t<input type=\"text\" class=\"input_text\" placeholder=\"https://\" name=\"_wc_file_urls[]\" value=\"https://quadconcursos.com.br/wp-content/uploads/woocommerce_uploads/2026/06/Turma-Patamo-SD-Manha-dia-05.10-Geografia-Gabarito-Diario-hbhzou.pdf\">\n\t\t\t</td>\n\t<td class=\"file_url_choose\" width=\"1%\"><a href=\"#\" class=\"button upload_file_button\" data-choose=\"Escolher arquivo\" data-update=\"Inserir o URL do arquivo\">Escolher arquivo</a></td>\n\t<td width=\"1%\"><a href=\"#\" class=\"delete\">Excluir</a></td>\n</tr>\n<tr>\n\t<td class=\"sort\"></td>\n\t<td class=\"file_name\">\n\t\t<"
+  }
+}
